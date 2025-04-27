@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yeshmi Nathasha</h1>
-<h3 align="center">I am an undergraduate student specializing in software Engineering. I am passionate about learning new technologies, enhancing my skills, and building a successful career in the IT sector. My main interests are in Business Analysis and Quality Assurance, where I aim to bridge the gap between technology and business needs by ensuring high standards of quality and delivering valuable solutions. 
-           🔹 Constant learner and technology enthusiast     
-           🔹 Interested in BA/QA methodologies and best practices 
-           🔹 Focused on continuous improvement and innovation I am excited to collaborate, grow, and contribute to meaningful projects.
+<h3 align="center">I am an undergraduate student specializing in software Engineering. I am passionate about learning new technologies, enhancing my skills, and building a successful career in the IT sector. My main interests are in Business Analysis and Quality Assurance, where I aim to bridge the gap between technology and business needs by ensuring high standards of quality and delivering valuable solutions. <br><br>
+           🔹 Constant learner and technology enthusiast  <br>   
+                🔹 Interested in BA/QA methodologies and best practices <br>
+                           🔹 Focused on continuous improvement and innovation I am excited to collaborate, grow, and contribute to meaningful projects.<br><br>
   
  Let's connect and build the future together! 🚀</h3>
 
